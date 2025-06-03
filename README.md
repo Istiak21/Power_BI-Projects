@@ -1,6 +1,6 @@
 # Power BI Dashboards
 
-This repository contains two Power BI dashboard projects I created to visualize and analyze business data. Each project folder includes the `.pbix` files (Power BI project files), exported PDF reports, and screenshots of the dashboards for quick reference.
+This repository contains three Power BI dashboard projects I created to visualize and analyze business data. Each project folder includes the `.pbix` files (Power BI project files), exported PDF reports, and screenshots of the dashboards for quick reference.
 
 ---
 
@@ -24,6 +24,16 @@ A dashboard designed to track and analyze marketing and sales performance metric
 - Regional sales trends and product category performance
 - Key business KPIs and visual highlights
 
+
+---
+
+
+### 📁 Pizza_Sales_Dashboard
+A dashboard that gives insights into Pizza Sales by:
+
+- Revenue breakdown by Pizza Category and Size
+- Analysing daily and monthly sales and visulaising the best performing day and month.
+- Best and worst performing Pizzas by Quantity, Reveneue and Total Orders.
 
 ---
 
