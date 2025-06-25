@@ -38,3 +38,16 @@ A dashboard that gives insights into Pizza Sales by:
 ---
 
 
+### 📁 HR_Dashboard
+A dashboard designed to monitor and analyze key human resource metrics, including:
+
+- Total Employees, Attrition Count, Attrition Rate, and Average Age  
+- Department-wise and Education Field-wise Attrition Breakdown  
+- Age-wise employee distribution segmented by gender  
+- Job Satisfaction Ratings across various Job Roles  
+- Gender-specific Attrition Rates across different Age Groups  
+- Visual insights for workforce planning, retention strategies, and employee engagement
+
+
+---
+
