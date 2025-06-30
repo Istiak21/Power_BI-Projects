@@ -51,3 +51,17 @@ A dashboard designed to monitor and analyze key human resource metrics, includin
 
 ---
 
+
+### 📁 Blinkit_Dashboard  
+An interactive Power BI dashboard designed to analyze and visualize sales performance and customer insights for Blinkit by analyzing:
+
+- Year-over-Year Revenue Comparison with growth indicator  
+- Product Category-wise Revenue Distribution  
+- Payment Method Breakdown across Card, Cash, Wallet, and UPI  
+- Month-wise Revenue Trends for identifying seasonal sales patterns  
+- Comparative Month-wise Sales Analysis (Current Year vs Previous Year)  
+- Customer Feedback Section highlighting satisfaction and dissatisfaction  
+- Visual insights for strategic business decisions, product performance, and customer experience optimization
+
+
+---
